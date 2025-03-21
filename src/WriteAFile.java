@@ -2,7 +2,7 @@ import java.io.FileWriter;
 import java.io.BufferedWriter;
 
 public class WriteAFile {
-    String writtenFile = "WriteAFileExample.txt";
+    String writtenFile = "C:\\Users\\Meng\\Desktop\\Programming2\\WriteAFileExample.txt.txt";
     FileWriter filewriter;
     BufferedWriter writer;
 
